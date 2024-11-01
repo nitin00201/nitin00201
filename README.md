@@ -16,7 +16,7 @@
 
 <!-- Trophies with Animation -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nitin00201&theme=nord&column=-1&margin-w=15&margin-h=15&no-frame=true&animation=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nitin00201&theme=nord&column=-1&margin-w=15&title=Repositories&margin-h=15&no-frame=true&animation=true" />
 </div>
 
 <!-- About Me Section with Animation -->
