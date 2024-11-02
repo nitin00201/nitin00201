@@ -101,6 +101,14 @@
 <div align="center">
   <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin00201">
 </div>
+<div align="center">
+  <h2>My Top Languages</h2>
+  <img 
+    width="70%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin00201&theme=dark&layout=compact" 
+    alt="GitHub Top Languages"
+  >
+</div>
 
 
 
