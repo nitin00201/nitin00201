@@ -94,8 +94,8 @@
 </h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nitin00201&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&border_radius=15"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin00201&theme=radical&background=0D1117&hide_border=true&border_radius=15"/>
+<!--   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nitin00201&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&border_radius=15"/> -->
+<!--   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin00201&theme=radical&background=0D1117&hide_border=true&border_radius=15"/> -->
 </div>
 
 <div align="center">
