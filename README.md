@@ -118,18 +118,13 @@
   <a href="https://linkedin.com/in/nitin-kabi-980532247">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+ 
   <a href="mailto:kabinitin2002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://github.com/nitin00201/nitin00201/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</div>
+
 
 <!-- Footer -->
 <div align="center">
