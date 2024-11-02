@@ -102,11 +102,7 @@
   <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin00201">
 </div>
 
-<!-- Activity Graph -->
-<h2 align="center">Contribution Graph 📈</h2>
-<div align="center">
-  <img src="" width="100%"/>
-</div>
+
 
 <!-- Connect Section with Gradient -->
 <h2 align="center">
