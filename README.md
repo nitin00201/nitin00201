@@ -34,7 +34,7 @@
   
   🌱 Learning **Next.js**
   
-  👨‍💻 Projects at [Portfolio]([https://yourportfolio.com](https://portfolio-sage-one-22.vercel.app/))
+  👨‍💻 Projects at [Portfolio](https://portfolio-sage-one-22.vercel.app/)
   
   💬 Ask me about **Spring Boot, React.js, System Design**
   
