@@ -30,7 +30,7 @@
 <div align="center">
   <img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
   
-  🔭 Working on [Zscrum](https://github.com/yourusername/zscrum-app)
+  🔭 Working on [Zscrum](https://github.com/nitin00201/SprintFlow)
   
   🌱 Learning **Next.js**
   
