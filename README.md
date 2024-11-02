@@ -99,7 +99,7 @@
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin00201&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&border_radius=15"/>
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin00201">
 </div>
 
 <!-- Activity Graph -->
