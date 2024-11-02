@@ -98,9 +98,7 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin00201&theme=radical&background=0D1117&hide_border=true&border_radius=15"/>
 </div>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin00201">
-</div>
+
 <div align="center">
   <h2>My Top Languages</h2>
   <img 
