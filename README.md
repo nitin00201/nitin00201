@@ -105,7 +105,7 @@
 <!-- Activity Graph -->
 <h2 align="center">Contribution Graph 📈</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitin00201&theme=react-dark&hide_border=true&bg_color=0D1117&area_color=1f6fea&line=58a6ff&point=58a6ff&color=58a6ff" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitin002012&theme=react-dark&hide_border=true" width="100%"/>
 </div>
 
 <!-- Connect Section with Gradient -->
