@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,20&height=200&section=header&text=Hi%20👋,%20I'm%20Nitin&fontSize=60&animation=fadeIn&fontAlignY=35&desc=A%20Passionate%20Frontend%20Developer%20from%20India&descAlignY=55&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,20&height=200&section=header&text=Hi%20👋,%20I'm%20Nitin&fontSize=60&animation=fadeIn&fontAlignY=35&desc=A%20Passionate%20Fullstack%20Developer%20from%20India&descAlignY=55&descSize=20"/>
 </div>
 
 <!-- Dynamic SVG for status -->
